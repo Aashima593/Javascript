@@ -1,0 +1,20 @@
+# javascript loops:- for loop, while loop, do while loop
+- javaScript loops are essential for efficiently handling repetitive tasks.They execute a block of code repeatedly as long as a specified condition remains true. These loops are powerful tools for automating tasks and streamlining your code.
+- for loop:the for statement creates a loop with 3 optional expressions:
+  for (expression 1; expression 2; expression 3) {
+   // code block to be executed
+  }
+ *Expression 1 is executed (one time) before the execution of the code block.
+ *Expression 2 defines the condition for executing the code block.
+ *Expression 3 is executed (every time) after the code block has been executed.
+- while loop:the while loop loops through a block of code as long as a specified condition is true.
+  Syntax
+  while (condition) {
+   // code block to be executed
+  } 
+- do while loop:The do while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+  Syntax
+  do {
+   // code block to be executed
+  }
+  while (condition);
